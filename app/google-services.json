@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104177967174",
+    "project_id": "purchaser-39d6a",
+    "storage_bucket": "purchaser-39d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104177967174:android:7c85ad6a14ec522298ea47",
+        "android_client_info": {
+          "package_name": "com.ambiwsstudio.purchaser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104177967174-7joaucd87r84n68r12g2pbarq9fgtjg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXb5aLlt_TQMBDTjWPFhwbC3ItXzebi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104177967174-7joaucd87r84n68r12g2pbarq9fgtjg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
