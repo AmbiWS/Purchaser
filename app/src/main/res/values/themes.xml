@@ -20,6 +20,5 @@
     </style>
 
     <style name="Theme.Purchaser.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
     <style name="Theme.Purchaser.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
