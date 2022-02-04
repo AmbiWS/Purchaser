@@ -8,6 +8,10 @@ import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.startKoin
 import org.koin.core.logger.Level
 
+/* TODO add credentials
+    <a href="https://www.flaticon.com/free-icons/sell" title="sell icons">Sell icons created by Freepik - Flaticon</a>
+ */
+
 class PurchaserApp : Application() {
 
     override fun onCreate() {
